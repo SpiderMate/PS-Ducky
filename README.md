@@ -38,7 +38,15 @@
 - **[Wiki](https://github.com/SpiderMate/ps-ducky/wiki/usage)**
 - **[video](https://youtube.com)**
 
-### How To Report bugs?
-you can open a issue request about the bug [here](https://github.com/SpiderMate/ps-ducky/issues)
-### Credits
-* https://github.com/CedArctic/DigiSpark-Scripts
+### Got vulnerability / bugs?
+
+you can report it [here](https://github.com/SpiderMate/ps-ducky/issues)
+
+### Contacts
+
+you can contact me on [twitter](https://twitter.com/SpiderSec) :)
+
+### Extra Resources
+
+- **[CedArctic](https://github.com/CedArctic/DigiSpark-Scripts)**
+- **[hak5](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)**
