@@ -33,10 +33,12 @@
 <img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="80" width="80" alt="PS-Ducky">
 </center>
 
-### Usage
+### How To Use ?
 
 - **[Wiki](https://github.com/SpiderMate/ps-ducky/wiki/usage)**
 - **[video](https://youtube.com)**
 
+### How To Report bugs?
+you can open a issue request about the bug [here](https://github.com/SpiderMate/ps-ducky/issues)
 ### Credits
-https://github.com/CedArctic/DigiSpark-Scripts
+* https://github.com/CedArctic/DigiSpark-Scripts
