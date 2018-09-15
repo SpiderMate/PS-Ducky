@@ -14,3 +14,4 @@
     <img src="https://img.shields.io/badge/issues-0-red.svg">
   </a>
 </p>
+![demo](https://image.ibb.co/dr1C6e/ss1.png)
