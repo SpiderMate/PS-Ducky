@@ -42,6 +42,10 @@
 
 you can report it [here](https://github.com/SpiderMate/ps-ducky/issues)
 
+### License
+
+**ps-ducky** is licensed under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ### Contacts
 
 you can contact me on [twitter](https://twitter.com/SpiderSec) :)
