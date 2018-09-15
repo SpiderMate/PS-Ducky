@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/issues-0-red.svg">
   </a>
 </p>
-<div style="border: 1px solid #555;">
+<p style="border: 1px solid #555;">
 
 ![Screen Shot](https://image.ibb.co/dr1C6e/ss1.png)
 
-</div>
+</p>
