@@ -54,3 +54,4 @@ you can report it [here](https://github.com/SpiderMate/ps-ducky/issues)
 
 - **[CedArctic](https://github.com/CedArctic/DigiSpark-Scripts)**
 - **[hak5](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)**
+- **[Digispark Documentation](https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h)**
