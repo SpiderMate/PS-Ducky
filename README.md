@@ -48,7 +48,8 @@ you can report it [here](https://github.com/SpiderMate/ps-ducky/issues)
 
 ### Contacts
 
-you can contact me on [twitter](https://twitter.com/SpiderSec) :)
+* [twitter](https://twitter.com/SpiderSec) :)
+* 
 
 ### Extra Resources
 
