@@ -36,7 +36,7 @@
 ### How To Use ?
 
 - **[Wiki](https://github.com/SpiderMate/ps-ducky/wiki/usage)**
-- **[video](https://youtube.com)**
+- **[video](https://www.youtube.com/watch?v=EZ2LUCqHVOU)**
 
 ### Got vulnerability / bugs?
 
