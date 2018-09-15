@@ -24,7 +24,7 @@
 
 - Secure admin panel
 - Stunning user interface
-- Run custom powershell script
+- Execute custom powershell script
 
 ### Board Used
 
@@ -32,3 +32,11 @@
 <center>
 <img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="80" width="80" alt="PS-Ducky">
 </center>
+
+### Usage
+
+- **[Wiki](https://github.com/SpiderMate/ps-ducky/wiki/usage)**
+- **[video](https://youtube.com)**
+
+### Credits
+https://github.com/CedArctic/DigiSpark-Scripts
