@@ -6,3 +6,8 @@
   <br>
 </h1>
 <h4 align="center">Flash once and modify powershell payloads from PS-Ducky</h4>
+<p align="center">
+  <a href="https://github.com/SpiderMate/PS-Ducky/releases">
+    <img src="https://img.shields.io/badge/release-v0.1-blue.svg">
+  </a>
+</p>
