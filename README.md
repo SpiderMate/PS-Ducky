@@ -29,8 +29,6 @@
 ### Board Used
 
 * Digispark ATTiny85
-<br>
 <center>
-<img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="200 width="200" alt="PS-Ducky">
+<img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="150 width="150" alt="PS-Ducky">
 </center>
-<br>
