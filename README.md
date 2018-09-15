@@ -23,11 +23,7 @@
 ### Key Features
 
 - Secure admin panel
-
-<h6 align="center">
-  <br>
-  <a href="https://github.com/SpiderMate/PS-Ducky"><img src="https://image.ibb.co/fbvN6e/ss2.png" hight="120" width="120" alt="PS-Ducky"></a>
-  <br>
+<br/><center><img src="https://image.ibb.co/fbvN6e/ss2.png" hight="200" width="120" alt="PS-Ducky"></center><br/>
 - Stunning user interface
 - Run custom powershell script
 
