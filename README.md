@@ -5,4 +5,4 @@
   <font color="red">PS-Ducky</font>
   <br>
 </h1>
-<h4 align="center">Flash Once and Modify Powershell Payloads From Dashboard</h4>
+<h4 align="center">Flash once and modify powershell payloads from PS-Ducky</h4>
