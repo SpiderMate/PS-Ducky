@@ -23,7 +23,14 @@
 ### Key Features
 
 - Secure admin panel
-<br/><center><img src="https://image.ibb.co/fbvN6e/ss2.png" hight="200" width="120" alt="PS-Ducky"></center><br/>
 - Stunning user interface
 - Run custom powershell script
 
+### Board Used
+
+* Digispark ATTiny85
+<br>
+<center>
+<img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="200 width="200" alt="PS-Ducky">
+</center>
+<br>
