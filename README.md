@@ -13,7 +13,16 @@
   <a href="https://github.com/SpiderMate/PS-Ducky/issues">
     <img src="https://img.shields.io/badge/issues-0-red.svg">
   </a>
+    <a href="https://github.com/SpiderMate/PS-Ducky/issues">
+    <img src="https://img.shields.io/badge/php-7-green.svg">
+  </a>
 </p>
 
 ![Screen Shot](https://image.ibb.co/mamqsK/ss1.png)
+
+### Key Features
+
+- Secure admin panel
+- Stunning user interface
+- Run custom powershell script
 
