@@ -22,9 +22,9 @@
 
 ### Key Features
 
-- Secure admin panel
-- Stunning user interface
-- Execute custom powershell script
+- Secure admin panel.
+- Stunning user interface.
+- Execute custom powershell scripts.
 
 ### Board Used
 
