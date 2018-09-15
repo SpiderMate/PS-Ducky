@@ -10,4 +10,7 @@
   <a href="https://github.com/SpiderMate/PS-Ducky/releases">
     <img src="https://img.shields.io/badge/release-v0.1-blue.svg">
   </a>
+  <a href="https://github.com/SpiderMate/PS-Ducky/issues">
+    <img src="https://img.shields.io/badge/issues-0-red.svg">
+  </a>
 </p>
