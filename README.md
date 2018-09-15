@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/SpiderMate/PS-Ducky"><img src="https://image.ibb.co/gixcpz/Pics_Art_09_15_11_04_00.png" hight="150" width="150" alt="PS-Ducky"></a>
+  <a href="https://github.com/SpiderMate/PS-Ducky"><img src="https://image.ibb.co/eu9q9z/Pics_Art_09_15_10_46_46.png" hight="150" width="150" alt="PS-Ducky"></a>
   <br>
   PS-Ducky
   <br>
