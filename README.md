@@ -30,5 +30,5 @@
 
 * Digispark ATTiny85
 <center>
-<img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="150 width="150" alt="PS-Ducky">
+<img src="https://raw.githubusercontent.com/SpiderMate/ps-ducky/master/img/pic.jpg" hight="80" width="80" alt="PS-Ducky">
 </center>
